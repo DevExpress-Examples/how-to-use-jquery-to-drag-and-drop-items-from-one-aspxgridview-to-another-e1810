@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CartItem.cs](./CS/WebSite/App_Code/CartItem.cs) (VB: [CartItem.vb](./VB/WebSite/App_Code/CartItem.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [CartScript.js](./CS/WebSite/Scripts/CartScript.js) (VB: [CartScript.js](./VB/WebSite/Scripts/CartScript.js))
+<!-- default file list end -->
 # How to use jQuery to drag and drop items from one ASPxGridView to another
 
 
