@@ -7,6 +7,9 @@
 * [CartScript.js](./CS/WebSite/Scripts/CartScript.js) (VB: [CartScript.js](./VB/WebSite/Scripts/CartScript.js))
 <!-- default file list end -->
 # How to use jQuery to drag and drop items from one ASPxGridView to another
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1810/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to use the jQuery framework to drag an item from one grid to another.</p>
